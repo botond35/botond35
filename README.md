@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img  src="assets/header.png" alt="Header image" width="100%" />
+  <img  src="https://github.com/botond35/botond35/blob/main/Hi%2C%20I%20am%20Botond-2.png#:~:text=Hi%2C%20I%20am-,Botond,-%2D2.png" alt="Header image" width="100%" />
 </p>
 
 <!-- Intro & Social badges -->
