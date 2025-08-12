@@ -1,16 +1,53 @@
-## Hi there 👋
+<!-- Header Image -->
+<p align="center">
+  <img  src="assets/header.png" alt="Header image" width="100%" />
+</p>
 
-<!--
-**botond35/botond35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Intro & Social badges -->
+<p align="center">
+  I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.<br><br>
 
-Here are some ideas to get you started:
+  <a href="https://www.linkedin.com/in/jayrajroshan/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://www.instagram.com/roshanjayraj/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+  <a href="mailto:mail@jayrajroshan1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills:
+
+<p align="center">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+## Still learning:
+
+<p align="center">
+  <img alt="Kotlin Learning" src="https://img.shields.io/badge/Kotlin-Learning-orange?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img alt="Swift Learning" src="https://img.shields.io/badge/Swift-Learning-orange?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Botond35&theme=gotham&show_icons=true&count_private=true" alt="GitHub Stats" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=gotham" alt="GitHub Readem Stats" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Botond35&theme=gotham&layout=compact" alt="Top Languages" />
+
+
+<br>
+
+
+</div>
