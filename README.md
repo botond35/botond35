@@ -7,13 +7,13 @@
 <p align="center">
   I'm studying development and working on my own project. Join me on LinkedIn...<br><br>
 
-  <a href="https://www.linkedin.com/in/jayrajroshan/" target="_blank">
+  <a href="https://www.linkedin.com/in/botond-kiss-12145037a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://www.instagram.com/roshanjayraj/" target="_blank">
+  <a href="https://www.instagram.com/botond35git?igsh=MTN3NjF5NXdlbWNjOQ==" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-  <a href="mailto:mail@jayrajroshan1@gmail.com" target="_blank">
+  <a href="kissbotond35git@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
