@@ -5,7 +5,7 @@
 
 <!-- Intro & Social badges -->
 <p align="center">
-  I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.<br><br>
+  I'm studying development and working on my own project. Join me on LinkedIn...<br><br>
 
   <a href="https://www.linkedin.com/in/jayrajroshan/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
