@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/botond35git?igsh=MTN3NjF5NXdlbWNjOQ==" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-  <a href="kissbotond35git@gmail.com" target="_blank">
+  <a href="mailto:kissbotond35git@gmail.com"  target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
