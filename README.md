@@ -1,9 +1,7 @@
-<!-- Header Image -->
 <p align="center">
   <img  src="https://github.com/botond35/botond35/blob/main/Hi%2C%20I%20am%20Botond-2.png#:~:text=Hi%2C%20I%20am-,Botond,-%2D2.png" alt="Header image" width="100%" />
 </p>
 
-<!-- Intro & Social badges -->
 <p align="center">
   I'm studying development and working on my own project. Join me on LinkedIn...<br><br>
 
